@@ -1,3 +1,9 @@
 hello world this is file 1
 
+<<<<<<< HEAD
 commiting some changes to file1
+=======
+commiting changes to file1
+
+exercise 16 -- modify file1.txt and commit
+>>>>>>> master
