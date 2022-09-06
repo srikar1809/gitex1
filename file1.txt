@@ -7,3 +7,5 @@ commiting changes to file1
 
 exercise 16 -- modify file1.txt and commit
 >>>>>>> master
+
+14) make some changes to file1.txt and commit 
